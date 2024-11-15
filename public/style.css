@@ -127,8 +127,8 @@ form ul {
 }
 
 input[type=text] {
-    width: 640px;
-    max-width: calc(100% - 8em)
+    width: 580px;
+    max-width: calc(100% - 4em)
 }
 
 .footer {
